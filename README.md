@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushSingh-py
 - 👀 I’m interested in Developing Coding Skills.
-- 🌱 I’m currently learning PYTHON, HTML.
+- 🌱 I’m currently learning PYTHON, Front-End, MERN.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ayushsinghguruji@gmail.com
 - 😄 Pronouns: Male
